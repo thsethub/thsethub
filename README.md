@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Thiago Augusto 👋
 - Atualmente sou DevJunior
 - Graduando de Engenharia de Controle e Automação
+- Graduando em Técnico de Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/thsethub">
