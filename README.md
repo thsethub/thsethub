@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Thiago Augusto 👋
-- Atualmente sou DevJunior
+- Dev Begginer
 - Graduando de Engenharia de Controle e Automação
 - Graduando em Técnico de Desenvolvimento de Sistemas
 
