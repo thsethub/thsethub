@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Thiago Augusto 👋
-- Dev Beginner
+- Desenvolvedor Mobile Full Stack
 - Graduando de Engenharia de Controle e Automação
-- Graduando em Técnico de Desenvolvimento de Sistemas
+- Técnico de Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/thsethub">
