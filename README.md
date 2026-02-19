@@ -1,10 +1,4 @@
 ### Hello, World! 👋 
-
-- 🟪 Purple Hat
-- 👾 Graduated in Cybersecurity
-- 🛡️ Network Technician
-- 👨🏻‍💻 Automation
-
 <div>
   <a href="https://github.com/Hypnosgasp">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hypnosgasp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
